@@ -1,4 +1,6 @@
-### Hi 👋,I'm Abhijeet Pandey
+<h1 align="center"> Hi 👋, I'm Abhijeet Pandey</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on :<br>      Improving my backend and frontend Skills<br><br>👯 I’m looking to collaborate on :<br>      Full Stack Projects<br><br>🤝 I’m looking for help or guidance with :<br>      Professionals and experienced developers <br><br>🌱 I’m currently learning :<br>      Javascript and ReactJs<br><br>💬 Ask me about :<br>      Javascript , NextJs , ReactJs , NodeJs and any general software development questions<br><br>🎯Goal :<br>     Complete MERN stack and become full stack developer by the year 2025<br><br>⚡ Fun fact :<br>      I love content creation, researching , learning new stuff , gaming and i can easily cope up with changes <br>
 
